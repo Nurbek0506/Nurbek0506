@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Nurbek0506/Nurbek0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is What I'm Working On! 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...Interesting projects
+- 🌱 I’m currently learning ...  Vue js, Nuxt js
+- 👯 I’m looking to collaborate on ... Vue js
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ... nurbek050613@mail.ru
+- 😄 Pronouns: ... He/ Him
+- ⚡ Fun fact: ...I'm half finnish
+
