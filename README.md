@@ -19,4 +19,7 @@
 ![rest](https://img.shields.io/badge/-Restapi-red?style=for-the-badge&logo=restapi&logoColor=69429D)
 
 
-Fallow me 
+### Fallow me 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=F35714)](https://t.me/nurbek_010101)
+[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=F35714)](https://github.com/Nurbek0506)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=F35714)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
